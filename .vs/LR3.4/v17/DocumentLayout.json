@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pozzi\\source\\repos\\LR3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4C37D5-75AC-473E-AAFB-E8FE2D8BBD95}|LR3.4\\LR3.4.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR3.4\\LR3.4\\LR3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D4C37D5-75AC-473E-AAFB-E8FE2D8BBD95}|LR3.4\\LR3.4.vcxproj|solutionrelative:LR3.4\\LR3.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR3.4.cpp",
+              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR3.4\\LR3.4\\LR3.4.cpp",
+              "RelativeDocumentMoniker": "LR3.4\\LR3.4.cpp",
+              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR3.4\\LR3.4\\LR3.4.cpp",
+              "RelativeToolTip": "LR3.4\\LR3.4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T09:33:34.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
