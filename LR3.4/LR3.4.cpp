@@ -26,18 +26,17 @@ int main()
     cout << "b = "; cin >> b;
     cout << "R = "; cin >> R;
 
-    // Перевірка сірого кольору
+    // Перевірка сірого кольору (виправлено згідно з рисунком)
     bool inGray =
 
-        (pow(x + a, 2) + pow(y + b, 2) <= pow(R, 2) && y > x) 
-                                    ||
-        (pow(x - a, 2) + pow(y - b, 2) <= pow(R, 2) && y < x);
-
+        (pow(x - a, 2) + pow(y - b, 2) <= pow(R, 2) && y > x)
+                                 ||
+        (pow(x + a, 2) + pow(y + b, 2) <= pow(R, 2) && y < x);
     if (inGray)
         cout << "Yes" << endl;
     else
         cout << "No" << endl;
-
+    cin.get();
     cin.get();
     return 0;
 }
